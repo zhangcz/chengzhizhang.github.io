@@ -15,11 +15,11 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-* Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021.
+* Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021
 * Call for Paper: Special issue about "AI + Informetrics" at [Scientometrics](https://link.springer.com/collections/ebfiegeiie)
 * In May 2021, proceedings of the 1st Workshop on AI + Informetrics (AII2021) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2871/).
 * In April 2021, a paper has been accepted by Journal of Informetrics.[[doi]](https://doi.org/10.1016/j.joi.2021.101162)  [[arxiv]](https://arxiv.org/abs/2104.05409)
-* Call for Paper: The 1st Workshop on AI + Informetrics ([AII2021](https://ai-informetrics.github.io/)) to be held as a virtual event as part of the iConference2021.
+* Call for Paper: The 1st Workshop on AI + Informetrics ([AII2021](https://ai-informetrics.github.io/)) to be held as a virtual event as part of the iConference2021
 * In January 2021, a paper has been accepted by Journal of Informetrics. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
 * In October 2020, a paper has been accepted by Journal of the Association for Information Science and Technology. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * Call for Paper: Special issue about "Extraction and Evaluation of Knowledge Entities from Scientific Documents" at [JDIS](http://manu47.magtech.com.cn/Jwk3_jdis/EN/news/news1.shtml)(Note: when submit, please put a note "EEKE2020" at the beginning of title).
