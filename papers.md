@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2021
-* [P3] Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. ***Proceedings of the 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents(EEKE2021)***. co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2021 (JCDL 2021), Virtual Event, USA, September 30th, 2021. [Proceedings](http://ceur-ws.org/Vol-3004/)
+* [P3] Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. ***Proceedings of the 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents(EEKE2021)***. co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2021 (JCDL 2021), Virtual Event, USA, September 30th, 2021. [[Proceedings]](http://ceur-ws.org/Vol-3004/)
 * [P2] Yi Zhang, Chengzhi Zhang, Philipp Mayr, and Arho Suominen. ***Proceedings of the 1st Workshop on AI + Informetrics (AII2021)***. co-located with the iConference2021, Virtual Event, China, March 17, 2021. [[Proceedings]](http://ceur-ws.org/Vol-2871/) [[DBLP]](https://dblp.org/db/conf/iconference/aii2021.html)
 * [J51] Yi Zhao, Lifan Liu, Chengzhi Zhang\*.  Is Coronavirus-Related Research Becoming More Interdisciplinary? A Perspective of Co-occurrence Analysis and Diversity Measure of Scientific Articles. ***Technological Forecasting & Social Change***, 2021. [[doi]](https://doi.org/10.1016/j.techfore.2021.121344)   [[arxiv]](https://arxiv.org/abs/2111.04344) (in press)
 * [J50] Chengzhi Zhang, Lifan Liu, Yuzhuo Wang. Characterizing References from Different Disciplines: A Perspective of Citation Content Analysis. ***Journal of Informetrics***, 2021, 15(2):101134. [[doi]](https://doi.org/10.1016/j.joi.2021.101134)  [[arxiv]](https://arxiv.org/abs/2101.07614)
