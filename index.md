@@ -14,7 +14,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
  
 ## Recent News
 * Call for Paper: Special issue about “Extracting and Evaluating of Knowledge Entities” at [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities) (Note: Select the special issue on 'Extracting and Evaluating of Knowledge Entities' please)
-* In November 2021, the workshop proceedings of [EEKE2021](https://eeke-workshop.github.io/2021/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3004/).
+* In November 2021, the workshop proceedings of [EEKE2021](https://eeke-workshop.github.io/2021/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3004/), [DBLP](https://dblp.org/db/conf/jcdl/eeke2021.html).
 * Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021
 * Call for Paper: Special issue about "AI + Informetrics" at [Scientometrics](https://link.springer.com/collections/ebfiegeiie)
 * In August 2021, Special issue (Extraction and Evaluation of Knowledge Entities from Scientific Documents) on Journal of Data and Information Science has been published and the link of the SI is: [https://www.sciendo.com/issue/JDIS/6/3](https://www.sciendo.com/issue/JDIS/6/3),  [[Editorial]](https://doi.org/10.2478/jdis-2021-0025)
@@ -27,7 +27,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 * In October 2020, a paper has been accepted by Journal of the Association for Information Science and Technology. [[doi]](http://doi.org/10.1002/asi.24430)  [[arxiv]](https://arxiv.org/abs/2010.09934)
 * Call for Paper: Special issue about "Extraction and Evaluation of Knowledge Entities from Scientific Documents” at [JDIS](http://manu47.magtech.com.cn/Jwk3_jdis/EN/news/news1.shtml)(Note: when submit, please put a note “EEKE2020” at the beginning of title).
 * Call for Paper: Special issue about 'Scientific Documents Mining and Applications' at [DIM](https://www.editorialmanager.com/dim/default.aspx) (Note: when submit, please put a note “EEKE2020” at the beginning of title).
-* In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/).
+* In August 2020, the workshop proceedings of [EEKE2020](https://eeke2020.github.io/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-2658/), [DBLP](https://dblp.org/db/conf/jcdl/eeke2020.html).
 * In August 2020, a paper has been accepted by Journal of Informetrics. [[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817)  [[Demo: Algorithm Influence in NLP (1979~2015)]](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)  [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
 
 
