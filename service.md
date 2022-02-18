@@ -7,7 +7,7 @@ order:  5
 ---
 ##  Co-Chair
 * Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2020](https://eeke2020.github.io/)), ([EEKE2021](https://eeke-workshop.github.io/2021/)).
-* The second workshop on AI + Informetrics ([AII2022](https://ai-informetrics.github.io/2022/))] affiliated with the ([IP&MC 2022 Annual Conference](https://www.elsevier.com/events/conferences/information-processing-and-management-conference)) 
+* The second workshop on AI + Informetrics ([AII2022](https://ai-informetrics.github.io/2022/)) affiliated with the ([IP&MC 2022 Annual Conference](https://www.elsevier.com/events/conferences/information-processing-and-management-conference)) 
 * Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/)).
 
 
