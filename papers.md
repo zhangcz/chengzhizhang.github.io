@@ -8,7 +8,7 @@ order:  3
  (*=corresponding author)
 
 ## 2022
-* [J54] Yuzhuo Wang, Chengzhi Zhang\*, Kai Li. A Review on Method Entities in the Academic Literature: Extraction, Evaluation, and Application. ***Scientometrics***, 2022 (in press).
+* [J54] Yuzhuo Wang, Chengzhi Zhang\*, Kai Li. A Review on Method Entities in the Academic Literature: Extraction, Evaluation, and Application. ***Scientometrics***, 2022 (in press).  [[doi]](https://doi.org/10.1007/s11192-022-04332-7)
 * [J53] Chengzhi Zhang, Lei Zhao, Mengyuan Zhao, Yingyi Zhang. Enhancing Keyphrase Extraction from Academic Articles with their Reference Information. ***Scientometrics***, 2022, 127(2): 703–731. [[doi]](https://doi.org/10.1007/s11192-021-04230-4)  [[arXiv]](http://arxiv.org/abs/2111.14106)  [[Dataset & Source Code]](https://github.com/chengzhizhang/Keyphrase_Extraction)
 * [J52] Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang, Sanhong Deng. Enhancing Identification of Structure Function of Academic Articles Using Contextual Information. ***Scientometrics***, 2022, 127(2): 885–925. [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)
 * [J51] Yi Zhao, Lifan Liu, Chengzhi Zhang\*.  Is Coronavirus-Related Research Becoming More Interdisciplinary? A Perspective of Co-occurrence Analysis and Diversity Measure of Scientific Articles. ***Technological Forecasting & Social Change***, 2022, 175: 121344.  [[doi]](https://doi.org/10.1016/j.techfore.2021.121344)   [[arxiv]](https://arxiv.org/abs/2111.04344) 
