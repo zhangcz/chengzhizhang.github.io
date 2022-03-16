@@ -33,7 +33,7 @@ order:  5
   * [Information Discovery and Delivery](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)
   * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
   * [Data and Information Management (DIM)](https://www.sciendo.com/issue/DIM/5/3)
-* ***Editorial Board Member***: Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
+* ***Editorial Board Member***: Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (Guest Editorial Board), Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
 
 
 
