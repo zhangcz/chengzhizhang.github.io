@@ -26,9 +26,9 @@ order:  5
 
 ## Editorial Board Member 
 * ***Guest Editors***
-  * Information Processing and Management(IPM)
-  * Scientometrics
-  * Aslib Journal of Information Management
+  * [Information Processing and Management(IPM)](https://www.elsevier.com/events/conferences/information-processing-and-management-conference/author-submission/ai-informetrics-robust-models-for-large-scale-analytics)
+  * [Scientometrics](https://link.springer.com/collections/ebfiegeiie)
+  * [Aslib Journal of Information Management (Aslib JIM)](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities)
   * [The Electronic Library](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)
   * [Information Discovery and Delivery](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)
   * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
