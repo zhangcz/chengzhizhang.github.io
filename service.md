@@ -29,12 +29,11 @@ order:  5
   * Information Processing and Management(IPM)
   * Scientometrics
   * Aslib Journal of Information Management
-  * The Electronic Library
-  * Information Discovery and Delivery
-  * Journal of Natural Language Engineering (JNLE)
-  * Journal of Data and Information Science (JDIS)
-  * Data and Information Management (DIM)
-* ***Editorial Board Member***: Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
+  * [The Electronic Library](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)
+  * [Information Discovery and Delivery](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)
+  * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
+  * [Data and Information Management (DIM)](https://www.sciendo.com/issue/DIM/5/3)
+* ***Editorial Board Member***: Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
 
 
 
