@@ -25,7 +25,9 @@ order:  5
 * ***NLP & AI-related fields***: IJCAI, ACL, EMNLP, NAACL, AACL, IJCNLP, NLPCC, SMP, CCIR, NLPOE, IWWIP, etc.
 
 ## Editorial Board Member 
-* ***Guest Editors***: Information Processing and Management(IPM), Scientometrics, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Journal of Data and Information Science (JDIS), Data and Information Management (DIM)
+* ***Guest Editors***
+  *Information Processing and Management(IPM)
+  *Scientometrics, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (JNLE), Journal of Data and Information Science (JDIS), Data and Information Management (DIM)
 * ***Editorial Board Member***: Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
 
 
