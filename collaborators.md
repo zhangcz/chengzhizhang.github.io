@@ -28,9 +28,6 @@ order:  6
 * Haochuan Li, 2021
 * Liang Tian, 2020
 * Lei Zhao, 2020
-* Yuxin Xie, 2019
-* Yuntian Song, 2019
-* Minghui Meng, 2019
 
 
 ## Alumni
@@ -41,6 +38,9 @@ order:  6
 <!--{
 % include collaborator.html people=site.data.collaborators.former-masters %}
 -->
+* Yuntian Song, 2019
+* Yuxin Xie, MSc 2022, master thesis: Extraction of Fine-grained Method Entities in the Full-text Content of Academic Articles and Their Association and Evolution Analysis
+* Minghui Meng, MSc 2022, master thesis: Sentiment Analysis of Online Peer Reviews and Application
 * Ruping Wang, MSc 2021, master thesis: Methodological Sentences Recognition and Automatic Summarization Based upon Full-text of Academic Articles
 * Lifan Liu, MSc 2021, master thesis: Interdisciplinary Knowledge Flow based on Citation Content
 * Shaohu Hu, MSc 2021, master thesis: Text Keyword Extraction Based on Eye-tracking Data
