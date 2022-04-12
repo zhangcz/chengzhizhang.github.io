@@ -538,7 +538,7 @@ for(var i=29;i>=0;i--){
 var myChart = echarts.init(document.getElementById('container'),'customed');
 console.log(option)
 var option = {
-    //timeline基本配置都写在baseoption 中
+    //The basic timeline configuration is written in the baseoption
     baseOption: {
         timeline: {
             axisType: 'category',
@@ -553,28 +553,28 @@ var option = {
 			},
 			top: '90%'
         },
-        // 图的标题
+        // title of the figure
         title: {
             text:  'Usage of Research Methods on Different Research Topics in LIS (1990-2019)',
 			left: 'center',
             textStyle: {
-                color: 'black',//坐标值得具体的颜色
+                color: 'black',//color of coordinates
             }
         },
-        // 提示框的配置
+        // Configuration of the prompt box
         tooltip: {  
         },
-        // 工具箱
-        toolbox: { //可视化的工具箱
+        // Toolbox
+        toolbox: { //Visualization Toolbox
             show: true,
             feature: {
-                dataView: { //数据视图
+                dataView: { //Data View
                     show: true
                 },
-                restore: { //重置
+                restore: { //restore
                     show: true
                 },
-                saveAsImage: {//保存图片
+                saveAsImage: {//save
                     show: true
                 }
             }
@@ -648,7 +648,7 @@ var option = {
 			}
         ],
     },
-    //变量则写在options中
+    //The variables are written in options
      options:option
 	}
     myChart.setOption(option);
