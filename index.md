@@ -34,7 +34,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
 
 ##
-<a href='https://clustrmaps.com/site/1bcxl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls'/></a>
+<a href='https://clustrmaps.com/site/1bcxl'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=n&d=m33y5dN8Mj3n06hFPjMAdcBqZ_bJr4ridHxEPxBPbls'/></a>
 
  
 
