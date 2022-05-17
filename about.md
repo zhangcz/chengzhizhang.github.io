@@ -15,8 +15,8 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-* ***Call for Paper***: The 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)) to be held as a virtual event as part of the JCDL2022.
 * ***Call for Paper***: Special issue about “AI + Informetrics: Robust Models for Large-scale Analytics” at Information Processing & Management (IP&M), detailed information can be visited at: [https://ai-informetrics.github.io/2022/](https://ai-informetrics.github.io/2022/)
+* Call for Paper: The 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)) to be held as a virtual event as part of the JCDL2022.
 * Call for Paper: Special issue about “Extracting and Evaluating of Knowledge Entities” at [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities) (Note: Select the special issue on 'Extracting and Evaluating of Knowledge Entities' please)
 * In November 2021, the workshop proceedings of [EEKE2021](https://eeke-workshop.github.io/2021/) are published now and you can see at [CEUR](http://ceur-ws.org/Vol-3004/), [DBLP](https://dblp.org/db/conf/jcdl/eeke2021.html).
 * Call for Paper: The 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2021](https://eeke-workshop.github.io/2021/)) to be held as a virtual event as part of the JCDL2021.
