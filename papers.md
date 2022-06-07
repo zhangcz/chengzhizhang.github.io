@@ -8,7 +8,8 @@ order:  3
  (*=corresponding author)
 
 ## 2022
-* [J55] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2022 (in press). [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)
+* [J56] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2022 (in press). [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)
+* [J55] Liang Tian, Chengzhi Zhang\*. Using Hashtags to Analysis Purpose and Technology Application of Open-Source Project Related to COVID-19. ***Knowledge Organization***, 2022 (in press).
 * [J54] Yuzhuo Wang, Chengzhi Zhang\*, Kai Li. A Review on Method Entities in the Academic Literature: Extraction, Evaluation, and Application. ***Scientometrics***, 2022，127(5): 2479–2520.  [[doi]](https://doi.org/10.1007/s11192-022-04332-7)
 * [J53] Chengzhi Zhang, Lei Zhao, Mengyuan Zhao, Yingyi Zhang. Enhancing Keyphrase Extraction from Academic Articles with their Reference Information. ***Scientometrics***, 2022, 127(2): 703–731. [[doi]](https://doi.org/10.1007/s11192-021-04230-4)  [[arXiv]](http://arxiv.org/abs/2111.14106)  [[Dataset & Source Code]](https://github.com/chengzhizhang/Keyphrase_Extraction)
 * [J52] Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang, Sanhong Deng. Enhancing Identification of Structure Function of Academic Articles Using Contextual Information. ***Scientometrics***, 2022, 127(2): 885–925. [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)  [[Dataset & Source Code]](https://github.com/XN-BoWenMa/Chapter-category-identification)
