@@ -31,6 +31,7 @@ order:  5
   * [Aslib Journal of Information Management (Aslib JIM)](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities)
   * [The Electronic Library](https://www.emerald.com/insight/publication/issn/0264-0473/vol/35/iss/4)
   * [Information Discovery and Delivery](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)
+  * [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD)
   * [Journal of Data and Information Science (JDIS)](https://www.sciendo.com/issue/JDIS/6/3)
   * [Data and Information Management (DIM)](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)
 * ***Editorial Board Member***: Patterns, Online Information Review, Aslib Journal of Information Management, The Electronic Library, Information Discovery and Delivery, Journal of Natural Language Engineering (Guest Editorial Board), Frontiers in Research Metrics and Analytics, Data Intelligence, International Journal of Knowledge Content Development and Technology, Data Science and Informetrics, Data Analysis and Knowledge Discovery (In Chinese), Scientific Information Research (In Chinese), Journal of Library and Data (In Chinese), Journal of Library and Information Science in Agriculture (In Chinese), Technology Intelligence Engineering (In Chinese)
