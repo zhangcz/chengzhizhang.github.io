@@ -26,7 +26,15 @@ phd-students-first:
   -
     name: Chen Yang
     url: https://yangchen199671.github.io/ 
-    tagline: TBD.
+    tagline: Novelty Measuring of Scientific Article.
+  -  
+    name: Tong Bao
+    url:   
+    tagline: Knowledge Entity Extraction.
+  -  
+    name: Yi Xiang
+    url:   
+    tagline: TBD.    
 project-students:
 former-phd:
   -
