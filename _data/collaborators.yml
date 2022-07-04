@@ -1,8 +1,5 @@
 phd-students-first:
-  -
-    name: Yingyi Zhang
-    url: https://www.researchgate.net/profile/Zhang_Yingyi2 
-    tagline: Keyphrase extraction, Entity extraction and relation discovery.
+
   - 
     name: Chenglei Qin
     url: https://www.researchgate.net/profile/Qin_Chenglei
@@ -33,6 +30,12 @@ phd-students-first:
 project-students:
 former-phd:
   -
+    name: Yingyi Zhang
+    url: https://www.researchgate.net/profile/Zhang_Yingyi2 
+    tagline: "PhD 2022, now: Assistant Professor at Soochow University."
+    description: >
+      Phd Thesis: Extracting the Relationship of “Problem-Method” in Academic Papers.
+  -
     name: Shuitan Ma
     url: http://shutian.me/
     tagline: "PhD 2020, now: Engineer at Tencent Inc., China."
@@ -41,7 +44,7 @@ former-phd:
   -
     name: Chao Lu
     url: https://luchao1991.github.io/
-    tagline: "PhD 2019, now: Assistant Professor at  Hohai University."
+    tagline: "PhD 2019, now: Assistant Professor at Hohai University."
     description: >
       Phd Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
   -
