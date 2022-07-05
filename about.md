@@ -15,7 +15,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-* Call for Paper: Special isssue about "Information Extraction and Language Discourse Processing" at [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD) 
+* ***Call for Paper***: Special isssue about "Information Extraction and Language Discourse Processing" at [Information](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD) 
 * Call for Paper: Special issue about “AI + Informetrics: Robust Models for Large-scale Analytics” at Information Processing & Management (IP&M), detailed information can be visited at: [https://ai-informetrics.github.io/2022/](https://ai-informetrics.github.io/2022/)
 * Call for Paper: The 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents ([EEKE2022](https://eeke-workshop.github.io/2022/)) to be held as a virtual event as part of the JCDL2022.
 * Call for Paper: Special issue about “Extracting and Evaluating of Knowledge Entities” at [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/calls-for-papers/extracting-and-evaluating-knowledge-entities) (Note: Select the special issue on 'Extracting and Evaluating of Knowledge Entities' please)
