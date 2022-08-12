@@ -9,6 +9,7 @@ order:  3
 
 ## 2022
 * [P4] Chengzhi Zhang, Philipp Mayr, Wei Lu, Yi Zhang. ***Proceedings of the 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents(EEKE2022)***. co-located with the ACM/IEEE Joint Conference on Digital Libraries in 2022 (JCDL 2022), Germany and Online, 23~24 June, 2022. [[Proceedings]](http://ceur-ws.org/Vol-xxx/)  [[DBLP]](https://dblp.org/db/conf/jcdl/eeke2022.html)
+* [J57] Chenglei Qin, Chengzhi Zhang\*. Which Structure of Academic Articles do Referees Pay more Attention to? Perspective of Peer Review and Full-text of Academic Articles. ***Aslib Journal of Information Management***, 2022 (in press). [[doi]]()
 * [J56] Lei Zhao, Yingyi Zhang, Chengzhi Zhang\*. Does Attention Mechanism Possess the Feature of Human Reading? A Perspective of Sentiment Classification Task. ***Aslib Journal of Information Management***, 2022 (in press). [[doi]](https://doi.org/10.1108/AJIM-12-2021-0385)
 * [J55] Liang Tian, Chengzhi Zhang\*. Using Hashtags to Analysis Purpose and Technology Application of Open-Source Project Related to COVID-19. ***Knowledge Organization***, 2022 (in press). [[doi]]()  [[arXiv]](http://arxiv.org/abs/2207.06219)  [[Dataset & Source Code]](https://github.com/Molimicha-tech/ko-covid19)
 * [J54] Yuzhuo Wang, Chengzhi Zhang\*, Kai Li. A Review on Method Entities in the Academic Literature: Extraction, Evaluation, and Application. ***Scientometrics***, 2022，127(5): 2479–2520.  [[doi]](https://doi.org/10.1007/s11192-022-04332-7)
